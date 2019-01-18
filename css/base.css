@@ -1,2 +1,7 @@
 ﻿@charset "utf-8";
-body {font-size:95%;}
+body {
+    font-size:95%;
+    font-family:"MS Gothic",sans-serif;
+    color:darkgray;
+    background-color:darkolivegreen;
+}
