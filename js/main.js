@@ -1,7 +1,7 @@
 ﻿$(function () {
     $('.slick-box').slick({
         centerMode: true,
-        centerPadding: '60px',
+        centerPadding: '20%',
         autoplay: true,
         autoplayspeed: 2000,
         dots: true,
