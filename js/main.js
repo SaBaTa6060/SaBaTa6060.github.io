@@ -4,6 +4,7 @@
         autoplay: true,
         autoplayspeed: 2000,
         dots: true,
-        infinite: true
+        infinite: true,
+        adaptiveWidth: true
     });
 });
