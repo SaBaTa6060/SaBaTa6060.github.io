@@ -6,6 +6,6 @@
         autoplayspeed: 2000,
         dots: true,
         infinite: true,
-        adaptiveWidth: true
+        variableWidth: true
     });
 });
