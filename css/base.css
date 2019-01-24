@@ -3,7 +3,7 @@ body {
     text-align: center;
     font-size:95%;
     font-family:"MS Gothic",sans-serif;
-    color:darkgray;
+    color:mintcream;
     background-color:burlywood;
 }
 
@@ -11,6 +11,11 @@ div#main {
     width: 80%;
     margin: 0 auto;
     text-align: left;
+}
+
+h1,
+h2 {
+    text-align: center;
 }
 
 img {
