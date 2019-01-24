@@ -3,12 +3,13 @@ body {
     text-align: center;
     font-size:95%;
     font-family:"MS Gothic",sans-serif;
-    color:mintcream;
-    background-color:burlywood;
+    color:black;
+    background-color:azure;
 }
 
 div#main {
-    width: 500px;
+    max-width: 600px;
+    width: 80%;
     margin: 0 auto;
     text-align: left;
     background-color:#f4f5f7;
