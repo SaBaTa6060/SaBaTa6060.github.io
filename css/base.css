@@ -1,9 +1,16 @@
 ﻿@charset "utf-8";
 body {
+    text-align: center;
     font-size:95%;
     font-family:"MS Gothic",sans-serif;
     color:darkgray;
-    background-color:darkolivegreen;
+    background-color:burlywood;
+}
+
+div#main {
+    width: 80%;
+    margin: 0 auto;
+    text-align: left;
 }
 
 img {
