@@ -8,9 +8,10 @@ body {
 }
 
 div#main {
-    width: 600px;
+    width: 500px;
     margin: 0 auto;
     text-align: left;
+    background-color:#f4f5f7;
 }
 
 h1,
