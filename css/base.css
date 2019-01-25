@@ -6,7 +6,7 @@ body {
     font-size:16px;
     font-family: -apple-system, BlinkMacSystemFont, Noto Sans JP, Meiryo, sans-serif;
     color:black;
-    background-color:royalblue;
+    background-color:silver;
 }
 
 div#main {
@@ -28,6 +28,9 @@ img {
 }
 
 .slick-slide .caption {
+    background: rgba(0, 0, 0, 0.8);
+    color: #fff;
+    font-size: 14px;
     opacity: 0;
 }
 .slick-current .caption {
