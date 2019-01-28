@@ -28,6 +28,12 @@ img {
     height: auto;
 }
 
+.slick-slide {
+    transform: scale(.85);
+}
+.slick-current {
+    transform: scale(1);
+}
 .slick-slide .caption {
     background: rgba(0, 0, 0, 0.8);
     color: #fff;
