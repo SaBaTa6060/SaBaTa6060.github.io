@@ -28,6 +28,10 @@ img {
     height: auto;
 }
 
+.slick-prev:before,
+.slick-next:before {
+    color: black;
+}
 .slick-slide {
     transform: scale(.85);
 }
