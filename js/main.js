@@ -3,7 +3,7 @@
         centerMode: true,
         centerPadding: '20%',
         autoplay: true,
-        autoplayspeed: 2000,
+        autoplayspeed: 3500,
         dots: true,
         infinite: true,
         variableWidth: true
